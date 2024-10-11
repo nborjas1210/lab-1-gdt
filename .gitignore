@@ -1,0 +1,14 @@
+# Archivos de entorno virtual
+my_env/
+env/
+venv/
+
+# Archivos de configuración
+config/db_config.py
+
+# Archivos de logs
+logs/*.txt
+
+# Archivos temporales
+*.pyc
+__pycache__/
